@@ -4,6 +4,12 @@ A weather application built with ReactJS and the OpenWeatherMap API, featuring r
 
 ---
 
+To view the live version of this project, simply click on the link below:
+
+[View the Weather App](https://weatherapp-liart-iota-25.vercel.app/)
+
+---
+
 ## Features
 - Search for current weather in any city using the OpenWeatherMap API.
 - Displays real-time weather data, including temperature, humidity, and wind speed.
